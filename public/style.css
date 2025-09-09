@@ -138,3 +138,20 @@ header a {padding: 16px;}
   text-align: left;
   padding-left: 100px;
 }
+
+.container-project-feature {  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1.3fr 0.7fr;
+  grid-auto-columns: 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "ftr-img ftr-img"
+    "info about";
+}
+
+.ftr-img { grid-area: ftr-img; }
+
+.info { grid-area: info; font-size: 48px;}
+
+.about { grid-area: about; font-size: 18px;}
