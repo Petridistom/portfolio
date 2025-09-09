@@ -150,8 +150,8 @@ header a {padding: 16px;}
     "info about";
 }
 
-.ftr-img { grid-area: ftr-img; }
-.ftr-img img{ width: 80%; }
+.ftr-img { grid-area: ftr-img; justify-self: center; align-self: center; }
+.ftr-img img{ width: 50%; }
 
 .info { grid-area: info; font-size: 48px;}
 
