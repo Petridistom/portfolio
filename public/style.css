@@ -10,6 +10,7 @@ a:hover {color: #ffffff;}
 
 /* Style the header links */
 header a {padding: 16px;}
+.header-left{padding: 16px;}
 .header-left a{padding: 0px;}
 .header-left a:hover{color: black}
 
