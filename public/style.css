@@ -17,7 +17,7 @@ header a {
 }
 
 /* Change the background color on mouse-over */
-header a:hover {
+.header-right a:hover {
   color: #ddd;
 }
 
