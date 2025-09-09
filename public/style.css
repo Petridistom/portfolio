@@ -24,13 +24,13 @@ header a {
 /* Float the link section to the right */
 .header-right {
   float: right;
+  padding: 12px;
 }
 
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
 
  /* Dropdown Button */
 .dropbtn {
-  padding: 16px;
   font-size: 16px;
   border: none;
 }
