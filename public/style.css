@@ -135,4 +135,6 @@ header a {padding: 16px;}
   margin: auto;
   width: 10%;
   font-size: 48px;
+  text-align: left;
+  padding-left: 100px;
 }
