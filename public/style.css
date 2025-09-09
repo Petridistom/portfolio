@@ -151,7 +151,7 @@ header a {padding: 16px;}
 }
 
 .ftr-img { grid-area: ftr-img; }
-.ftr-img img{ width: 100%; }
+.ftr-img img{ width: 80%; }
 
 .info { grid-area: info; font-size: 48px;}
 
