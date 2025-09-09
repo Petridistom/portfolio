@@ -8,6 +8,7 @@
 header a {
   color: black;
   text-decoration: none;
+  padding: 16px;
 }
 
 /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
@@ -23,7 +24,6 @@ header a {
 /* Float the link section to the right */
 .header-right {
   float: right;
-  padding: 12px;
 }
 
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
