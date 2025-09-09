@@ -4,7 +4,7 @@ body{
 }
 
 .large-divider {margin-top: 20%;}
-.small-divider {margin-top: 16px;}
+.small-divider {margin-top: 16px; display: block;}
 a {text-decoration: none; color: black;}
 a:hover {color: #ffffff;}
 
