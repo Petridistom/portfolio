@@ -36,7 +36,10 @@ header a {padding: 16px;}
 .footer-left {float: left; padding-left: 16px; font-size: 12px;}
 .footer-right {float: right; padding-right: 16px; font-size: 12px;}
 .footer-left a{padding-right: 16px;}
-
+.email{display:none;}
+.mail{color: black;}
+.mail:hover + .email{display: block;}
+.email:hover {display: block;}
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
 
 /* The container <div> - needed to position the dropdown content */
