@@ -89,7 +89,7 @@ header a {padding: 16px;}
 
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
 .banner{margin: auto; width: 70%; padding: 32px;}
-.banner-background-1{background-color: #eee7df; }
+.banner-background-1{background-color: #eee7df; padding-left: 16px; padding-right: 16px;}
 .banner-background-2{background-color: #e2dad0; }
 .container-banner {  
   display: grid;
