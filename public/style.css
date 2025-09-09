@@ -8,7 +8,6 @@
 /* Style the header links */
 header a {
   color: black;
-  text-align: center;
   padding: 12px;
   text-decoration: none;
 }
@@ -19,13 +18,8 @@ header a {
 }
 
 /* Change the background color on mouse-over */
-.header a:hover {
+header a:hover {
   color: #ddd;
-}
-
-/* Style the active/current link*/
-.header a.active {
-
 }
 
 /* Float the link section to the right */
