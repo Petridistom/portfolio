@@ -448,11 +448,11 @@ header a {padding: 16px;}
   padding-top: 14px;
   font-size: 18px;
 }
-.header-alt-left a{color: white;}
-.header-alt-right a{color: white;}
+.header-alt-left a{color: #e2dad0;}
+.header-alt-right a{color: #e2dad0;}
 
 /* Change the background color on mouse-over */
-.header-alt-right a:hover {color: #ff0080;}
+.header-alt-right a:hover {color: orange;}
 
 /* Float the link section to the right */
 .header-alt-right {
@@ -463,8 +463,8 @@ header a {padding: 16px;}
 }
 
 
-.footer-alt-left a{color: white;}
+.footer-alt-left a{color: #e2dad0;}
 .footer-alt-left {float: left; padding-left: 16px; font-size: 12px;}
 .footer-alt-right {float: right; padding-right: 16px; font-size: 12px;}
 .footer-alt-left a{padding-right: 16px;}
-.footer-alt-left a:hover{color: #ff0080;}
+.footer-alt-left a:hover{color: orange;}
