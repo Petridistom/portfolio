@@ -364,7 +364,7 @@ header a {padding: 16px;}
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
 .container-sprite { 
   margin: auto;
-  width: 100%; 
+  width: 97%; 
   padding: 32px;
   display: grid;
   grid-template-columns: .5fr .5fr;
@@ -388,11 +388,11 @@ header a {padding: 16px;}
   margin: auto;
 }
 
-.sprite-desc { grid-area: sprite-desc; font-size: 32px;  width: 100%;}
+.sprite-desc { grid-area: sprite-desc; font-size: 32px;}
 
 .embed-code { grid-area: embed-code; }
 
-.sprite-desc-2 { grid-area: sprite-desc-2; font-size: 32px; width: 100%}
+.sprite-desc-2 { grid-area: sprite-desc-2; font-size: 32px;}
 
 .code-1 {
   justify-self: center;
