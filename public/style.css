@@ -388,11 +388,11 @@ header a {padding: 16px;}
   margin: auto;
 }
 
-.sprite-desc { grid-area: sprite-desc; font-size: 32px;  }
+.sprite-desc { grid-area: sprite-desc; font-size: 32px;  width: 100%;}
 
 .embed-code { grid-area: embed-code; }
 
-.sprite-desc-2 { grid-area: sprite-desc-2; font-size: 32px; }
+.sprite-desc-2 { grid-area: sprite-desc-2; font-size: 32px; width: 100%}
 
 .code-1 {
   justify-self: center;
