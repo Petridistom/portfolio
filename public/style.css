@@ -323,7 +323,8 @@ header a {padding: 16px;}
   justify-self: center;
   align-self: center;
   grid-area: paragraph-desc;
-  font-size: 38px;
+  font-size: 32px;
+  padding: 32px;
 }
 
 .screenshot1 {
