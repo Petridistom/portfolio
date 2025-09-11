@@ -255,6 +255,7 @@ header a {padding: 16px;}
   width: 90%;
   text-align: center;
   font-size: 48px;
+  padding-top: 100px;
 }
 
 .project-banner-1{
@@ -305,7 +306,7 @@ header a {padding: 16px;}
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
 
 .container-brokering-code {
-  margin: 0;
+  margin: auto;
   width: 100%;  
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -357,3 +358,52 @@ header a {padding: 16px;}
   grid-area: project-name;
   font-size: 42px;
 }
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+.container-sprite { 
+  margin: auto;
+  width: 100%; 
+  padding: 32px;
+  display: grid;
+  grid-template-columns: .5fr .5fr;
+  grid-template-rows: .1fr .1fr .1fr .1fr 1fr;
+  grid-auto-columns: 1fr;
+  gap: 20px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "sprite-name sprite-name"
+    "sprite-desc sprite-desc"
+    "embed-code embed-code"
+    "sprite-desc-2 sprite-desc-2"
+    "code-1 code-2";
+}
+
+.sprite-name {
+  justify-self: center;
+  align-self: center;
+  grid-area: sprite-name;
+  font-size: 42px;
+  margin: auto;
+}
+
+.sprite-desc { grid-area: sprite-desc; font-size: 32px;  }
+
+.embed-code { grid-area: embed-code; }
+
+.sprite-desc-2 { grid-area: sprite-desc-2; font-size: 32px; }
+
+.code-1 {
+  justify-self: center;
+  align-self: center;
+  grid-area: code-1;
+}
+.code-1 img{width: 100%;}
+.code-2 {
+  justify-self: center;
+  align-self: center;
+  grid-area: code-2;
+}
+.code-2 img{width: 100%;}
+.sprite-link{color: #ff0080;}
+.sprite-link :hover{color: #ffffff;}
+
