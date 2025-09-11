@@ -309,7 +309,7 @@ header a {padding: 16px;}
   width: 100%;  
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr .5fr;
+  grid-template-rows: .3fr 1fr .5fr;
   grid-auto-columns: 1fr;
   gap: 0px 0px;
   grid-auto-flow: row;
