@@ -409,3 +409,62 @@ header a {padding: 16px;}
 .sprite-link{color: #ff0080;}
 .sprite-link :hover{color: #ffffff;}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* alternative header information for the about page */
+
+/* Style the header links */
+.header-alt-left{padding: 16px;}
+.header-alt-left a{padding: 0px;}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header-alt-left {
+  float: left;
+  padding-top: 14px;
+  font-size: 18px;
+}
+.header-alt-left a{color: white;}
+.header-alt-right a{color: white;}
+
+/* Change the background color on mouse-over */
+.header-alt-right a:hover {color: #ff0080;}
+
+/* Float the link section to the right */
+.header-alt-right {
+  float: right;
+  padding-left: 16px;
+  padding-top: 16px;
+  font-size: 32px;
+}
+
+
+.footer-alt-left a{color: white;}
+.footer-alt-left {float: left; padding-left: 16px; font-size: 12px;}
+.footer-alt-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt-left a{padding-right: 16px;}
+.footer-alt-left a:hover{color: #ff0080;}
