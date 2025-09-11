@@ -2,6 +2,11 @@ body{
   background-color: #e2dad0;
   font-size:18px;
 }
+.youtube-embed{
+  margin: auto;
+  width: 90%;
+  height: 100%;
+}
 
 .large-divider {margin-top: 20%;}
 .medium-divider {margin-top: 6%;}
