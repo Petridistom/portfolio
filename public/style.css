@@ -261,15 +261,27 @@ header a {padding: 16px;}
 }
 
 .project-banner-1{
-  background-color: #aea8a3;
+  background-color: #440040;
   padding-bottom: 38px;
 }
 .project-banner-2{
-  background-color: #b6a699;
+  background-color: #5f0059;
   padding-bottom: 38px;
 }
-.project-banner-3{
-  background-color: #877d75;
+/* .project-banner-3{
+  background-color: #570051;
+  padding-bottom: 38px;
+} */
+.project-banner-4{
+  background-color: #414141;
+  padding-bottom: 38px;
+}
+.project-banner-5{
+  background-color: #686868;
+  padding-bottom: 38px;
+}
+.project-banner-6{
+  background-color: #949494;
   padding-bottom: 38px;
 }
 
@@ -301,7 +313,7 @@ header a {padding: 16px;}
 
 .project-desc {
   justify-self: start;
-  align-self: start;
+  align-self: center;
   grid-area: project-desc;
 }
 
@@ -418,9 +430,11 @@ header a {padding: 16px;}
 
 
 
-
-
-
+.elevator-link{color: white;} .elevator-link :hover{color: #ff3333;}
+.wander-link{color: white;} .wander-link :hover{color: #ff3333;}
+.eleventh-link{color: white;} .eleventh-link :hover{color: #ff3333;}
+.brokering-link{color: white;} .brokering-link :hover{color: #58B060;}
+.sprite-link{color: white;} .sprite-link :hover{color: #58B060;}
 
 
 
@@ -437,7 +451,6 @@ header a {padding: 16px;}
 
 
 /* alternative header information for the about page */
-
 /* Style the header links */
 .header-alt-left{padding: 16px;}
 .header-alt-left a{padding: 0px;}
@@ -470,8 +483,87 @@ header a {padding: 16px;}
 .footer-alt-left a:hover{color: greenyellow;}
 
 .dropdown-alt:hover .dropdown-content {display: block;}
-.dropdown-alt:hover {color: #e2dad0;}
+.dropdown-alt:hover {color: #e2dad0}
 .dropdown-alt {
+  position: relative;
+  display: inline-block;
+}
+
+
+/* for the virtu environments page */
+.header-alt1-left{padding: 16px;}
+.header-alt1-left a{padding: 0px;}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header-alt1-left {
+  float: left;
+  padding-top: 14px;
+  font-size: 18px;
+}
+.header-alt1-left a{color: white;}
+.header-alt1-right a{color: white;}
+
+/* Change the background color on mouse-over */
+.header-alt1-right a:hover {color: #ff3333;}
+
+/* Float the link section to the right */
+.header-alt1-right {
+  float: right;
+  padding-left: 16px;
+  padding-top: 16px;
+  font-size: 32px;
+}
+
+
+.footer-alt1-left a{color: white;}
+.footer-alt1-left {float: left; padding-left: 16px; font-size: 12px;}
+.footer-alt1-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt1-left a{padding-right: 16px;}
+.footer-alt1-left a:hover{color: #ff3333;}
+
+.dropdown-alt1:hover .dropdown-content {display: block; background: rgb(102, 102, 102);}
+.dropdown-alt1:hover {color: white}
+.dropdown-alt1 {
+  position: relative;
+  display: inline-block;
+}
+
+
+
+/* for the interactive media page */
+.header-alt2-left{padding: 16px;}
+.header-alt2-left a{padding: 0px;}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header-alt2-left {
+  float: left;
+  padding-top: 14px;
+  font-size: 18px;
+}
+.header-alt2-left a{color: white;}
+.header-alt2-right a{color: white;}
+
+/* Change the background color on mouse-over */
+.header-alt2-right a:hover {color: #58B060;}
+
+/* Float the link section to the right */
+.header-alt2-right {
+  float: right;
+  padding-left: 16px;
+  padding-top: 16px;
+  font-size: 32px;
+}
+
+
+.footer-alt2-left a{color: white;}
+.footer-alt2-left {float: left; padding-left: 16px; font-size: 12px;}
+.footer-alt2-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt2-left a{padding-right: 16px;}
+.footer-alt2-left a:hover{color: #58B060;}
+
+.dropdown-alt2:hover .dropdown-content {display: block; background: rgb(102, 102, 102);}
+.dropdown-alt2:hover {color: white;}
+.dropdown-alt2 {
   position: relative;
   display: inline-block;
 }
