@@ -457,7 +457,7 @@ header a {padding: 16px;}
 
 .elevator-embed { 
   grid-area: elevator-embed; 
-  justify-self: center;
+  justify-self: start;
   align-self: center;
 }
 
