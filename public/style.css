@@ -765,3 +765,81 @@ header a {padding: 16px;}
   position: relative;
   display: inline-block;
 }
+
+/* for the brokering code page */
+.header-alt5-left{padding: 16px;}
+.header-alt5-left a{padding: 0px;}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header-alt5-left {
+  float: left;
+  padding-top: 14px;
+  font-size: 18px;
+}
+.header-alt5-left a{color: black;}
+.header-alt5-right a{color: black;}
+
+/* Change the background color on mouse-over */
+.header-alt5-right a:hover {color: #69B9C7;}
+
+/* Float the link section to the right */
+.header-alt5-right {
+  float: right;
+  padding-left: 16px;
+  padding-top: 16px;
+  font-size: 32px;
+}
+
+
+.footer-alt5-left a{color: black;}
+.footer-alt5-left {float: left; padding-left: 16px; font-size: 12px;}
+.footer-alt5-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt5-left a{padding-right: 16px;}
+.header-alt5-right a:hover {color: #69B9C7;}
+.footer-alt5-left a:hover{color: #69B9C7;}
+
+.dropdown-alt5:hover .dropdown-content {display: block; background: #a8a29d;}
+.dropdown-alt5:hover {color: black;}
+.dropdown-alt5 {
+  position: relative;
+  display: inline-block;
+}
+
+/* for the sprite webtoon page */
+.header-alt6-left{padding: 16px;}
+.header-alt6-left a{padding: 0px;}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header-alt6-left {
+  float: left;
+  padding-top: 14px;
+  font-size: 18px;
+}
+.header-alt6-left a{color: black;}
+.header-alt6-right a{color: black;}
+
+/* Change the background color on mouse-over */
+.header-alt6-right a:hover {color: #b07dc0;}
+
+/* Float the link section to the right */
+.header-alt6-right {
+  float: right;
+  padding-left: 16px;
+  padding-top: 16px;
+  font-size: 32px;
+}
+
+
+.footer-alt6-left a{color: black;}
+.footer-alt6-left {float: left; padding-left: 16px; font-size: 12px;}
+.footer-alt6-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt6-left a{padding-right: 16px;}
+.header-alt6-right a:hover {color: #b07dc0;}
+.footer-alt6-left a:hover{color: #b07dc0;}
+
+.dropdown-alt6:hover .dropdown-content {display: block; background: #ccbbac;}
+.dropdown-alt6:hover {color: black;}
+.dropdown-alt6 {
+  position: relative;
+  display: inline-block;
+}
