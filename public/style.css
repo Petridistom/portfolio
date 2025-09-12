@@ -720,7 +720,7 @@ header a {padding: 16px;}
 .header-alt3-right a:hover {color: #ff3333;}
 .footer-alt3-left a:hover{color: #ff3333;}
 
-.dropdown-alt3:hover .dropdown-content {display: block; background: rgb(102, 102, 102);}
+.dropdown-alt3:hover .dropdown-content {display: block; background: rgb(29, 29, 29);}
 .dropdown-alt3:hover {color: white;}
 .dropdown-alt3 {
   position: relative;
