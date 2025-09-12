@@ -487,6 +487,62 @@ header a {padding: 16px;}
 } .screenshots-code img{width: 100%;}
 
 
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+.container-earth-ward {  
+  margin: auto;
+  width: 97%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: .3fr .5fr 1fr .5fr .1fr;
+  grid-auto-columns: 1fr;
+  gap: 0px 20px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "earth-ward-title earth-ward-title"
+    "earth-ward-desc earth-ward-desc"
+    "earth-ward-embed earth-ward-embed"
+    "earth-ward-desc-2 earth-ward-desc-2"
+    "earth-ward-devshots earth-ward-siteshots";
+}
+
+.earth-ward-title { 
+  grid-area: earth-ward-title;
+  font-size: 42px;
+  justify-self: center;
+  align-self: center;
+}
+
+.earth-ward-embed { 
+  grid-area: earth-ward-embed; 
+  justify-self: center;
+  align-self: center;
+}
+
+.earth-ward-desc { 
+  grid-area: earth-ward-desc; 
+  font-size: 32px;
+  justify-self: center;
+  align-self: center;
+}
+
+.earth-ward-desc-2 { 
+  grid-area: earth-ward-desc-2; 
+  font-size: 32px;
+  justify-self: center;
+  align-self: center;
+}
+
+.earth-ward-devshots { 
+  grid-area: earth-ward-devshots; 
+  justify-self: center;
+  align-self: center;
+} .earth-ward-devshots img{width: 100%;}
+
+.earth-ward-siteshots { 
+  grid-area: earth-ward-siteshots; 
+  justify-self: center;
+  align-self: center;
+} .earth-ward-siteshots img{width: 100%;}
 
 
 
@@ -667,6 +723,45 @@ header a {padding: 16px;}
 .dropdown-alt3:hover .dropdown-content {display: block; background: rgb(102, 102, 102);}
 .dropdown-alt3:hover {color: white;}
 .dropdown-alt3 {
+  position: relative;
+  display: inline-block;
+}
+
+/* for the wander and dwell page */
+.header-alt4-left{padding: 16px;}
+.header-alt4-left a{padding: 0px;}
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+.header-alt4-left {
+  float: left;
+  padding-top: 14px;
+  font-size: 18px;
+}
+.header-alt4-left a{color: white;}
+.header-alt4-right a{color: white;}
+
+/* Change the background color on mouse-over */
+.header-alt4-right a:hover {color: #58B060;}
+
+/* Float the link section to the right */
+.header-alt4-right {
+  float: right;
+  padding-left: 16px;
+  padding-top: 16px;
+  font-size: 32px;
+}
+
+
+.footer-alt4-left a{color: white;}
+.footer-alt4-left {float: left; padding-left: 16px; font-size: 12px;}
+.footer-alt4-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt4-left a{padding-right: 16px;}
+.header-alt4-right a:hover {color: #58B060;}
+.footer-alt4-left a:hover{color: #58B060;}
+
+.dropdown-alt4:hover .dropdown-content {display: block; background: rgb(102, 102, 102);}
+.dropdown-alt4:hover {color: white;}
+.dropdown-alt4 {
   position: relative;
   display: inline-block;
 }
