@@ -37,7 +37,7 @@ header a {padding: .7vw;}
 .header-left {
   float: left;
   padding-top: 14px;
-  font-size: 18px;
+  font-size: 1vw;
 }
 
 /* Change the background color on mouse-over */
@@ -50,8 +50,8 @@ header a {padding: .7vw;}
   padding-top: 16px;
   font-size: 4vmin;
 }
-.footer-left {float: left; padding-left: 16px; font-size: 12px;}
-.footer-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-left {float: left; padding-left: 16px; font-size: .7vw;}
+.footer-right {float: right; padding-right: 16px; font-size: .7vw;}
 .footer-left a{padding-right: 16px;}
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
 
@@ -578,7 +578,7 @@ header a {padding: .7vw;}
 .header-alt-left {
   float: left;
   padding-top: 14px;
-  font-size: 18px;
+  font-size: 1vw;
 }
 .header-alt-left a{color: #e2dad0;}
 .header-alt-right a{color: #e2dad0;}
@@ -596,8 +596,8 @@ header a {padding: .7vw;}
 
 
 .footer-alt-left a{color: #e2dad0;}
-.footer-alt-left {float: left; padding-left: 16px; font-size: 12px;}
-.footer-alt-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt-left {float: left; padding-left: 16px; font-size: .7vw;}
+.footer-alt-right {float: right; padding-right: 16px; font-size: .7vw;}
 .footer-alt-left a{padding-right: 16px;}
 .footer-alt-left a:hover{color: greenyellow;}
 
@@ -617,7 +617,7 @@ header a {padding: .7vw;}
 .header-alt1-left {
   float: left;
   padding-top: 14px;
-  font-size: 18px;
+  font-size: 1vw;
 }
 .header-alt1-left a{color: white;}
 .header-alt1-right a{color: white;}
@@ -635,8 +635,8 @@ header a {padding: .7vw;}
 
 
 .footer-alt1-left a{color: white;}
-.footer-alt1-left {float: left; padding-left: 16px; font-size: 12px;}
-.footer-alt1-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt1-left {float: left; padding-left: 16px; font-size: .7vw;}
+.footer-alt1-right {float: right; padding-right: 16px; font-size: .7vw;}
 .footer-alt1-left a{padding-right: 16px;}
 .footer-alt1-left a:hover{color: #ff3333;}
 
@@ -657,7 +657,7 @@ header a {padding: .7vw;}
 .header-alt2-left {
   float: left;
   padding-top: 14px;
-  font-size: 18px;
+  font-size: 1vw;
 }
 .header-alt2-left a{color: white;}
 .header-alt2-right a{color: white;}
@@ -675,8 +675,8 @@ header a {padding: .7vw;}
 
 
 .footer-alt2-left a{color: white;}
-.footer-alt2-left {float: left; padding-left: 16px; font-size: 12px;}
-.footer-alt2-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt2-left {float: left; padding-left: 16px; font-size: .7vw;}
+.footer-alt2-right {float: right; padding-right: 16px; font-size: .7vw;}
 .footer-alt2-left a{padding-right: 16px;}
 .footer-alt2-left a:hover{color: #58B060;}
 
@@ -696,7 +696,7 @@ header a {padding: .7vw;}
 .header-alt3-left {
   float: left;
   padding-top: 14px;
-  font-size: 18px;
+  font-size: 1vw;
 }
 .header-alt3-left a{color: white;}
 .header-alt3-right a{color: white;}
@@ -714,8 +714,8 @@ header a {padding: .7vw;}
 
 
 .footer-alt3-left a{color: white;}
-.footer-alt3-left {float: left; padding-left: 16px; font-size: 12px;}
-.footer-alt3-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt3-left {float: left; padding-left: 16px; font-size: .7vw;}
+.footer-alt3-right {float: right; padding-right: 16px; font-size: .7vw;}
 .footer-alt3-left a{padding-right: 16px;}
 .header-alt3-right a:hover {color: #ff3333;}
 .footer-alt3-left a:hover{color: #ff3333;}
@@ -735,7 +735,7 @@ header a {padding: .7vw;}
 .header-alt4-left {
   float: left;
   padding-top: 14px;
-  font-size: 18px;
+  font-size: 1vw;
 }
 .header-alt4-left a{color: white;}
 .header-alt4-right a{color: white;}
@@ -753,8 +753,8 @@ header a {padding: .7vw;}
 
 
 .footer-alt4-left a{color: white;}
-.footer-alt4-left {float: left; padding-left: 16px; font-size: 12px;}
-.footer-alt4-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt4-left {float: left; padding-left: 16px; font-size: .7vw;}
+.footer-alt4-right {float: right; padding-right: 16px; font-size: .7vw;}
 .footer-alt4-left a{padding-right: 16px;}
 .header-alt4-right a:hover {color: #58B060;}
 .footer-alt4-left a:hover{color: #58B060;}
@@ -774,7 +774,7 @@ header a {padding: .7vw;}
 .header-alt5-left {
   float: left;
   padding-top: 14px;
-  font-size: 18px;
+  font-size: 1vw;
 }
 .header-alt5-left a{color: black;}
 .header-alt5-right a{color: black;}
@@ -792,8 +792,8 @@ header a {padding: .7vw;}
 
 
 .footer-alt5-left a{color: black;}
-.footer-alt5-left {float: left; padding-left: 16px; font-size: 12px;}
-.footer-alt5-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt5-left {float: left; padding-left: 16px; font-size: .7vw;}
+.footer-alt5-right {float: right; padding-right: 16px; font-size: .7vw;}
 .footer-alt5-left a{padding-right: 16px;}
 .header-alt5-right a:hover {color: #69B9C7;}
 .footer-alt5-left a:hover{color: #69B9C7;}
@@ -813,7 +813,7 @@ header a {padding: .7vw;}
 .header-alt6-left {
   float: left;
   padding-top: 14px;
-  font-size: 18px;
+  font-size: 1vw;
 }
 .header-alt6-left a{color: black;}
 .header-alt6-right a{color: black;}
@@ -831,8 +831,8 @@ header a {padding: .7vw;}
 
 
 .footer-alt6-left a{color: black;}
-.footer-alt6-left {float: left; padding-left: 16px; font-size: 12px;}
-.footer-alt6-right {float: right; padding-right: 16px; font-size: 12px;}
+.footer-alt6-left {float: left; padding-left: 16px; font-size: .7vw;}
+.footer-alt6-right {float: right; padding-right: 16px; font-size: .7vw;}
 .footer-alt6-left a{padding-right: 16px;}
 .header-alt6-right a:hover {color: #b07dc0;}
 .footer-alt6-left a:hover{color: #b07dc0;}
