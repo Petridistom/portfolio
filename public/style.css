@@ -376,7 +376,7 @@ header a {padding: .7vw;}
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
 .container-sprite { 
   margin: auto;
-  width: 97%; 
+  width: 96%; 
   padding: 32px;
   display: grid;
   grid-template-columns: .5fr .5fr;
@@ -553,7 +553,7 @@ header a {padding: .7vw;}
 .wander-link{color: white;} .wander-link :hover{color: #ff3333;}
 .eleventh-link{color: white;} .eleventh-link :hover{color: #ff3333;}
 .brokering-link{color: white;} .brokering-link :hover{color: #58B060;}
-.sprite-link{color: white;} .sprite-link :hover{color: #58B060;}
+.sprite-link a{color: white;} .sprite-link a:hover{color: #58B060;}
 
 
 
