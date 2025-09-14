@@ -28,7 +28,7 @@ a:hover {color: #ffffff;}
 
 
 /* Style the header links */
-header a {padding: 16px;}
+header a {padding: .7vw;}
 .header-left{padding: 16px;}
 .header-left a{padding: 0px;}
 .header-left a:hover{color: black}
@@ -48,7 +48,7 @@ header a {padding: 16px;}
   float: right;
   padding-left: 16px;
   padding-top: 16px;
-  font-size: 32px;
+  font-size: 3vmin;
 }
 .footer-left {float: left; padding-left: 16px; font-size: 12px;}
 .footer-right {float: right; padding-right: 16px; font-size: 12px;}
@@ -101,9 +101,9 @@ header a {padding: 16px;}
 
 .area-1 { grid-area: area-1; align-self: center;}
 
-.area-2 { grid-area: area-2; align-self: center; font-size: 48px; padding-left: 10%; align-self: center;}
+.area-2 { grid-area: area-2; align-self: center; font-size: 2.2vw; padding-left: 10%; align-self: center;}
 
-.area-3 { grid-area: area-3; font-size: 48px; align-self: end; }  
+.area-3 { grid-area: area-3; font-size: 2.2vw; align-self: end; }  
 
 .area-1 img {width: 100%;}
 
@@ -149,14 +149,13 @@ header a {padding: 16px;}
 .img2 img {width: 100%;}
 .img3 img {width: 100%;}
 
-.project-title{font-size: 38px;}
 
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
 .ftr-banner{margin: auto; width: 90%; padding: 32px;}
 .project-page-title {
   margin: auto;
   width: 70%;
-  font-size: 48px;
+  font-size: 2.2vw;
   text-align: left;
   padding-left: 100px;
 }
@@ -256,7 +255,7 @@ header a {padding: 16px;}
   margin: auto;
   width: 90%;
   text-align: center;
-  font-size: 48px;
+  font-size: 2.2vw;
   padding-top: 100px;
 }
 
@@ -301,7 +300,7 @@ header a {padding: 16px;}
   justify-self: center;
   align-self: center;
   grid-area: project-title;
-  font-size: 30px;
+  font-size: 2vw;
 }
 
 .project-gif {
@@ -338,7 +337,7 @@ header a {padding: 16px;}
   justify-self: center;
   align-self: center;
   grid-area: paragraph-desc;
-  font-size: 32px;
+  font-size: 2vw;
   padding: 32px;
 }
 
@@ -370,7 +369,7 @@ header a {padding: 16px;}
   justify-self: center;
   align-self: center;
   grid-area: project-name;
-  font-size: 42px;
+  font-size: 2.2vw;
 }
 
 /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
@@ -400,11 +399,11 @@ header a {padding: 16px;}
   margin: auto;
 }
 
-.sprite-desc { grid-area: sprite-desc; font-size: 32px;}
+.sprite-desc { grid-area: sprite-desc; font-size: 2vw;}
 
 .embed-code { grid-area: embed-code; }
 
-.sprite-desc-2 { grid-area: sprite-desc-2; font-size: 32px;}
+.sprite-desc-2 { grid-area: sprite-desc-2; font-size: 2vw;}
 
 .code-1 {
   justify-self: center;
@@ -445,14 +444,14 @@ header a {padding: 16px;}
   grid-area: elevator-desc;
   justify-self: start;
   align-self: center;
-  font-size: 32px;
+  font-size: 2vw;
 }
 
 .elevator-title { 
   grid-area: elevator-title; 
   justify-self: center;
   align-self: center;
-  font-size: 42px;
+  font-size: 2.2vw;
 }
 
 .elevator-embed { 
@@ -471,7 +470,7 @@ header a {padding: 16px;}
   grid-area: elevator-desc-2; 
   justify-self: center;
   align-self: center;
-  font-size: 32px;
+  font-size: 2vw;
 }
 
 .screenshots-dev { 
@@ -507,7 +506,7 @@ header a {padding: 16px;}
 
 .earth-ward-title { 
   grid-area: earth-ward-title;
-  font-size: 42px;
+  font-size: 2.2vw;
   justify-self: center;
   align-self: center;
 }
@@ -520,14 +519,14 @@ header a {padding: 16px;}
 
 .earth-ward-desc { 
   grid-area: earth-ward-desc; 
-  font-size: 32px;
+  font-size: 2vw;
   justify-self: center;
   align-self: center;
 }
 
 .earth-ward-desc-2 { 
   grid-area: earth-ward-desc-2; 
-  font-size: 32px;
+  font-size: 2vw;
   justify-self: center;
   align-self: center;
 }
@@ -591,7 +590,7 @@ header a {padding: 16px;}
   float: right;
   padding-left: 16px;
   padding-top: 16px;
-  font-size: 32px;
+  font-size: 3vmin;
 }
 
 
@@ -630,7 +629,7 @@ header a {padding: 16px;}
   float: right;
   padding-left: 16px;
   padding-top: 16px;
-  font-size: 32px;
+  font-size: 3vmin;
 }
 
 
@@ -670,7 +669,7 @@ header a {padding: 16px;}
   float: right;
   padding-left: 16px;
   padding-top: 16px;
-  font-size: 32px;
+  font-size: 3vmin;
 }
 
 
@@ -709,7 +708,7 @@ header a {padding: 16px;}
   float: right;
   padding-left: 16px;
   padding-top: 16px;
-  font-size: 32px;
+  font-size: 3vmin;
 }
 
 
@@ -748,7 +747,7 @@ header a {padding: 16px;}
   float: right;
   padding-left: 16px;
   padding-top: 16px;
-  font-size: 32px;
+  font-size: 3vmin;
 }
 
 
@@ -787,7 +786,7 @@ header a {padding: 16px;}
   float: right;
   padding-left: 16px;
   padding-top: 16px;
-  font-size: 32px;
+  font-size: 3vmin;
 }
 
 
@@ -826,7 +825,7 @@ header a {padding: 16px;}
   float: right;
   padding-left: 16px;
   padding-top: 16px;
-  font-size: 32px;
+  font-size: 3vmin;
 }
 
 
