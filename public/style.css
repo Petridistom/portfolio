@@ -12,7 +12,7 @@ body{
   grid-template-areas:
     "youtube-iframe";
 }
-.youtube-iframe { grid-area: youtube-iframe; place-self: center; }
+.youtube-iframe { grid-area: youtube-iframe; place-self: center; width: 90vw; height:80vmin;}
 
 
 
@@ -347,7 +347,7 @@ header a {padding: .7vw;}
   grid-area: screenshot1;
   align-content: center;
 }
-.screenshot1 img{ width: 600px; }
+.screenshot1 img{ width: 30vw; }
 
 .screenshot2 {
   justify-self: center;
@@ -355,7 +355,7 @@ header a {padding: .7vw;}
   grid-area: screenshot2;
   align-content: center;
 }
-.screenshot2 img{ width: 600px; }
+.screenshot2 img{ width: 30vw; }
 
 .screenshot3 {
   justify-self: center;
@@ -363,7 +363,7 @@ header a {padding: .7vw;}
   grid-area: screenshot3;
   align-content: center;
 }
-.screenshot3 img{ width: 600px; }
+.screenshot3 img{ width: 30vw; }
 
 .project-name {
   justify-self: center;
