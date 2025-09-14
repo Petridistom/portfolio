@@ -37,7 +37,7 @@ header a {padding: .7vw;}
 .header-left {
   float: left;
   padding-top: 14px;
-  font-size: 1.2wv;
+  font-size: 18px;
 }
 
 /* Change the background color on mouse-over */
@@ -578,7 +578,7 @@ header a {padding: .7vw;}
 .header-alt-left {
   float: left;
   padding-top: 14px;
-  font-size: 1.2wv;
+  font-size: 18px;
 }
 .header-alt-left a{color: #e2dad0;}
 .header-alt-right a{color: #e2dad0;}
@@ -617,7 +617,7 @@ header a {padding: .7vw;}
 .header-alt1-left {
   float: left;
   padding-top: 14px;
-  font-size: 1.2wv;
+  font-size: 18px;
 }
 .header-alt1-left a{color: white;}
 .header-alt1-right a{color: white;}
@@ -657,7 +657,7 @@ header a {padding: .7vw;}
 .header-alt2-left {
   float: left;
   padding-top: 14px;
-  font-size: 1.2wv;
+  font-size: 18px;
 }
 .header-alt2-left a{color: white;}
 .header-alt2-right a{color: white;}
@@ -696,7 +696,7 @@ header a {padding: .7vw;}
 .header-alt3-left {
   float: left;
   padding-top: 14px;
-  font-size: 1.2wv;
+  font-size: 18px;
 }
 .header-alt3-left a{color: white;}
 .header-alt3-right a{color: white;}
@@ -735,7 +735,7 @@ header a {padding: .7vw;}
 .header-alt4-left {
   float: left;
   padding-top: 14px;
-  font-size: 1.2wv;
+  font-size: 18px;
 }
 .header-alt4-left a{color: white;}
 .header-alt4-right a{color: white;}
@@ -774,7 +774,7 @@ header a {padding: .7vw;}
 .header-alt5-left {
   float: left;
   padding-top: 14px;
-  font-size: 1.2wv;
+  font-size: 18px;
 }
 .header-alt5-left a{color: black;}
 .header-alt5-right a{color: black;}
@@ -813,7 +813,7 @@ header a {padding: .7vw;}
 .header-alt6-left {
   float: left;
   padding-top: 14px;
-  font-size: 1.2wv;
+  font-size: 18px;
 }
 .header-alt6-left a{color: black;}
 .header-alt6-right a{color: black;}
