@@ -582,25 +582,25 @@ header a {padding: .7vw;}
   grid-area: tethered-gif-1; 
   justify-self: center;
   align-self: center;
-} .tethered-gif-1 img{width: 100%;}
+} .tethered-gif-1 img{width: 35vw;}
 
 .tethered-gif-2 { 
   grid-area: tethered-gif-2; 
   justify-self: center;
   align-self: center;
-} .tethered-gif-2 img{width: 100%;}
+} .tethered-gif-2 img{width: 35vw;}
 
 .tethered-ss-1 { 
   grid-area: tethered-ss-1;
   justify-self: center;
   align-self: center; 
-} .tethered-ss-1 img{width: 100%;}
+} .tethered-ss-1 img{width: 35vw;}
 
 .tethered-ss-2 { 
   grid-area: tethered-ss-2;
   justify-self: center;
   align-self: center; 
-} .tethered-ss-2 img{width: 100%;}
+} .tethered-ss-2 img{width: 35vw;}
 
 .tethered-desc-2 { 
   grid-area: tethered-desc-2;
@@ -928,7 +928,7 @@ header a {padding: .7vw;}
 .header-alt7-right a{color: black;}
 
 /* Change the background color on mouse-over */
-.header-alt7-right a:hover {color: #b07dc0;}
+.header-alt7-right a:hover {color: #67DC88}
 
 /* Float the link section to the right */
 .header-alt7-right {
@@ -943,8 +943,8 @@ header a {padding: .7vw;}
 .footer-alt7-left {float: left; padding-left: 16px; font-size: 12px;}
 .footer-alt7-right {float: right; padding-right: 16px; font-size: 12px;}
 .footer-alt7-left a{padding-right: 16px;}
-.header-alt7-right a:hover {color: #b07dc0;}
-.footer-alt7-left a:hover{color: #b07dc0;}
+.header-alt7-right a:hover {color: #67DC88;}
+.footer-alt7-left a:hover{color: #67DC88;}
 
 .dropdown-alt7:hover .dropdown-content {display: block; background: #e7e7e7;}
 .dropdown-alt7:hover {color: black;}
