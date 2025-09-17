@@ -624,7 +624,7 @@ header a {padding: .7vw;}
 .tethered-link{color: white;} .tethered-link :hover{color: #ff3333;}
 .brokering-link{color: white;} .brokering-link :hover{color: #58B060;}
 .sprite-link {color: white;} .sprite-link :hover{color: #58B060;}
-.sprite-desc-2 a{color: white;} .sprite-desc-2 a:hover{color: #58B060;}
+.sprite-desc-2 a{color: white;} .sprite-desc-2 a:hover{color: #b07dc0;}
 
 
 
@@ -850,7 +850,7 @@ header a {padding: .7vw;}
 .header-alt5-right a{color: black;}
 
 /* Change the background color on mouse-over */
-.header-alt5-right a:hover {color: #69B9C7;}
+.header-alt5-right a:hover {color: #5695a0;}
 
 /* Float the link section to the right */
 .header-alt5-right {
@@ -865,8 +865,8 @@ header a {padding: .7vw;}
 .footer-alt5-left {float: left; padding-left: 16px; font-size: 12px;}
 .footer-alt5-right {float: right; padding-right: 16px; font-size: 12px;}
 .footer-alt5-left a{padding-right: 16px;}
-.header-alt5-right a:hover {color: #69B9C7;}
-.footer-alt5-left a:hover{color: #69B9C7;}
+.header-alt5-right a:hover {color: #5695a0;}
+.footer-alt5-left a:hover{color: #5695a0;}
 
 .dropdown-alt5:hover .dropdown-content {display: block; background: #a8a29d;}
 .dropdown-alt5:hover {color: black;}
