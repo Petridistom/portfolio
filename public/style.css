@@ -3,6 +3,17 @@ body{
   font-size:1vw;
 }
 
+.bottom-paragraph{
+  font-size: 2vw;
+  margin: auto;
+  width: 96%;
+}
+
+.slide-show-img{
+  margin: auto;
+  width: 66%;
+}
+
 .container-youtube-embed {  display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
